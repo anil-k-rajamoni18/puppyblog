@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter]() - email@example.com
+Your Name -ANIL K RAJAMONI anil.k.rajamoni99@gmail.com
 
 Project Link: [https://github.com/anil-k-rajamoni18/puppyblog](https://github.com/anil-k-rajamoni18/puppyblog)
 
