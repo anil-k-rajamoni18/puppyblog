@@ -1,6 +1,5 @@
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 This is Simple Puppy blog website ,developed using Flask ,SqlAlchemy ,Its the CRUD operations 
